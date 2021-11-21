@@ -1,0 +1,72 @@
+[
+    {
+      "houseName": "Passion homes",
+      "place": "Berlin",
+      "houseImg": "https://i.ibb.co/Xz7f0cs/img-1.jpg",
+      "price": "$3000000",
+      "houseInfo": "This is the right place for you if you are looking for a apartment  in this beautiful location. We have the news of this lovely home that comes with an amazing floor plan and roomy living space."
+    },
+    {
+      "houseName": "MiniPalais",
+      "place": "Mosco",
+      "houseImg": "https://i.ibb.co/3MXGVmJ/img-2.jpg",
+      "price": "$4000000",
+      "houseInfo": "This is the right place for you if you are looking for a apartment  in this beautiful location. We have the news of this lovely home that comes with an amazing floor plan and roomy living space."
+    },
+    {
+      "houseName": "The Dorm Room",
+      "place": "Tokyo",
+      "houseImg": "https://i.ibb.co/kcCsdBY/img-3.jpg",
+      "price": "$9000000",
+      "houseInfo": "This is the right place for you if you are looking for a apartment  in this beautiful location. We have the news of this lovely home that comes with an amazing floor plan and roomy living space."
+    },
+    {
+      "houseName": "EcoStay",
+      "place": "Helsinki",
+      "houseImg": "https://i.ibb.co/cD0gysp/img-4.jpg",
+      "price": "$8000000",
+      "houseInfo": "This is the right place for you if you are looking for a apartment  in this beautiful location. We have the news of this lovely home that comes with an amazing floor plan and roomy living space."
+    },
+    {
+      "houseName": "Shoebox",
+      "place": "Nairobi",
+      "houseImg": "https://i.ibb.co/nj3H2vm/img-5.jpg",
+      "price": "$4000000",
+      "houseInfo": "This is the right place for you if you are looking for a apartment  in this beautiful location. We have the news of this lovely home that comes with an amazing floor plan and roomy living space."
+    },
+    {
+      "houseName": "Wild Estates",
+      "place": "Lisbon",
+      "houseImg": "https://i.ibb.co/Fxx6JTj/img-6.jpg",
+      "price": "$5000000",
+      "houseInfo": "This is the right place for you if you are looking for a apartment  in this beautiful location. We have the news of this lovely home that comes with an amazing floor plan and roomy living space."
+    },
+    {
+      "houseName": "Castel de dorn",
+      "place": "Dubai",
+      "houseImg": "https://i.ibb.co/zfH7PXv/img-7.jpg",
+      "price": "$6000000",
+      "houseInfo": "This is the right place for you if you are looking for a apartment  in this beautiful location. We have the news of this lovely home that comes with an amazing floor plan and roomy living space."
+    },
+    {
+      "houseName": "The Den",
+      "place": "Real madrid",
+      "houseImg": "https://i.ibb.co/pyT0vmW/img-8.jpg",
+      "price": "$2000000",
+      "houseInfo": "This is the right place for you if you are looking for a apartment  in this beautiful location. We have the news of this lovely home that comes with an amazing floor plan and roomy living space."
+    },
+    {
+      "houseName": "Homes with peace",
+      "place": "Hongkong",
+      "houseImg": "https://i.ibb.co/GCP8G1R/img-9.jpg",
+      "price": "$7000000",
+      "houseInfo": "This is the right place for you if you are looking for a apartment  in this beautiful location. We have the news of this lovely home that comes with an amazing floor plan and roomy living space."
+    },
+    {
+      "houseName": "La Grande Maison",
+      "place": "Singapore",
+      "houseImg": "https://i.ibb.co/jzKZSDH/img-10.jpg",
+      "price": "$8000000",
+      "houseInfo": "This is the right place for you if you are looking for a apartment  in this beautiful location. We have the news of this lovely home that comes with an amazing floor plan and roomy living space."
+    }
+  ]

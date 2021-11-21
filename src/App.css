@@ -1,38 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@600;700&display=swap");
 .App {
   text-align: center;
 }
+.nav-home {
+  font-family: "Kalam", cursive;
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  /* text-decoration: none; */
+  color: aliceblue;
+}
+.apartment-title {
+  font-family: "Kalam", cursive;
 }
 
+.manageOrder,
+.apartment-name {
+  font-family: "Rajdhani", sans-serif;
+}
+/* .manageOrder {
+  font-family: "Rajdhani", sans-serif;
+} */
+.horizontal-border {
+  width: 150px;
+  border: 2px solid crimson;
+  border-radius: 1.5px;
+  margin: 20px auto;
+}
+.apartment-img:hover {
+  transform: scale(1.1);
+  transition: width 1s, height 1s, transform 1.5s;
+}
+
+.add-event form input,
+textarea {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border-style: none;
+  border-color: crimson;
+  text-align: left;
+}
+.MuiTableHead-root {
+  color: "white";
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.register-screen {
+  background: linear-gradient(#00000059, #000000cf, #0000006b),
+    url("https://images.pexels.com/photos/723241/pexels-photo-723241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.login-container {
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  backdrop-filter: blur(14px);
+  background-color: #1e272e;
+  box-shadow: rgba(0, 0, 0, 0.3) 2px 8px 8px;
+  border: 0px rgba(255, 255, 255, 0.4) solid;
+  border-bottom: 0px rgba(40, 40, 40, 0.35) solid;
+  border-right: 0px rgba(40, 40, 40, 0.35) solid;
 }
